@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Music Center</string>
+    <string name="title_activity_download">Download</string>
+    <string name="hyperlink">www.musiccenter.xyz</string>
+</resources>
